@@ -12,4 +12,4 @@ Created this bot to make my PyTorch models and OpenCV functions easily accessibl
 
 # Making a cartoon version of your image
 
-![CartoonBot](https://user-images.githubusercontent.com/53010808/136109464-8c23d2fc-c569-4a06-b1aa-9e615d341fc3.PNG)
+![CartoonBot](https://user-images.githubusercontent.com/53010808/136109764-0e84fdd0-f773-4d25-90e8-9a19746e0234.PNG)
